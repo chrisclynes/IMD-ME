@@ -50,3 +50,11 @@
   #root, #__next {
     isolation: isolate;
   }
+
+  /*--------------- Header----------------- */
+
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
